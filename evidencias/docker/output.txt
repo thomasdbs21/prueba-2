@@ -1,0 +1,8 @@
+CONTAINER ID   IMAGE         COMMAND           CREATED              STATUS                          PORTS     NAMES
+5526d62d12c2   clima-app     "python app.py"   About a minute ago   Exited (0) About a minute ago             samplerunning
+4d0b0343be08   hello-world   "/hello"          About an hour ago    Exited (0) About an hour ago              exciting_shannon
+25c1ce8ce8c5   hello-world   "/hello"          About an hour ago    Exited (0) About an hour ago              determined_dhawan
+===== CLIMA ACTUAL =====
+Temperatura: 18.9°C
+Humedad: 34%
+Viento: 0.51 m/s
